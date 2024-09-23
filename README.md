@@ -18,4 +18,4 @@ Welcome to my **Daily Coding Challenge** where I tackle AI and healthcare-relate
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/asil07/daily-coding-challenge.git
