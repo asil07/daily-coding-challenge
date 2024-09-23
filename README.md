@@ -1,8 +1,8 @@
 # 🎯 Daily Coding Challenge - AI & Healthcare 💻
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/repository-name)
-![GitHub stars](https://img.shields.io/github/stars/your-username/repository-name?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/repository-name?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/asil07/daily-coding-challenge)
+![GitHub stars](https://img.shields.io/github/stars/asil07/daily-coding-challenge?style=social)
+![GitHub forks](https://img.shields.io/github/forks/asil07/daily-coding-challenge?style=social)
 
 > **A journey of 1000 lines of code begins with a single commit.** 🚀
 
