@@ -24,15 +24,6 @@ Here are some of our sample image patches used in this challenge:
 **Processed Patch:**
 <img src="challenges/image_prprocessing/processed_images/processed_patch_4096_11776.png" alt="Sample Patch 1 Processed" width="300"/>
 
-#### Sample 2
-**Original Patch:**
-<img src="challenges/image_prprocessing/input_images/patch_4608_12808.png" alt="Sample Patch 2 Original" width="300"/>
-
-**Processed Patch:**
-<img src="challenges/image_prprocessing/processed_images/processed_patch_4608_12808.png" alt="Sample Patch 2 Processed" width="300"/>
-
-
-
 ## 🛠️ Technologies Used
 - **Python** 🐍
 - **OpenCV** - For image processing
