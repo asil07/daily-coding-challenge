@@ -29,3 +29,5 @@ FROM
     HighEarners
 ORDER BY 
     Department, Salary DESC;
+
+
