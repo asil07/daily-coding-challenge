@@ -25,7 +25,7 @@ class Solution(object):
             # Get the letters corresponding to the current digit
             letters = digit_to_char[digits[index]]
             for letter in letters:
-                # Append the letter to the current combination and move to the next digit
+                # Add the letter to the current combination and move to the coming digit
                 current_combination.append(letter)
                 backtrack(index + 1, current_combination)
                 # Backtrack by removing the last letter
