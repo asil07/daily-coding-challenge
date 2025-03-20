@@ -21,4 +21,9 @@ class Solution(object):
                 p2 -= 1
             p -= 1
         
+        return p
         
+funk = Solution()
+
+amal = funk.merge(nums1 = [1,2,3,0,0,0], m=2, nums2 = [2,5,6], n=3)
+print(amal)
